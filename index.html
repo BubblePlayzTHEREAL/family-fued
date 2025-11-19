@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family Feud Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>FAMILY FEUD</h1>
+            <div class="score-container">
+                <div class="score-box">
+                    <h3>Team 1</h3>
+                    <div class="score" id="team1-score">0</div>
+                </div>
+                <div class="round-score">
+                    <h3>Round Score</h3>
+                    <div class="score" id="round-score">0</div>
+                </div>
+                <div class="score-box">
+                    <h3>Team 2</h3>
+                    <div class="score" id="team2-score">0</div>
+                </div>
+            </div>
+            <div class="strikes-container">
+                <div class="strike" id="strike1">❌</div>
+                <div class="strike" id="strike2">❌</div>
+                <div class="strike" id="strike3">❌</div>
+            </div>
+        </header>
+
+        <main>
+            <div class="question-container">
+                <h2 id="question">Load a question file to begin!</h2>
+            </div>
+
+            <div class="answers-board">
+                <div class="answer-row" data-index="0">
+                    <div class="answer-number">1</div>
+                    <div class="answer-text" id="answer-0">
+                        <span class="hidden-answer">ANSWER 1</span>
+                    </div>
+                    <div class="answer-points" id="points-0">00</div>
+                </div>
+                <div class="answer-row" data-index="1">
+                    <div class="answer-number">2</div>
+                    <div class="answer-text" id="answer-1">
+                        <span class="hidden-answer">ANSWER 2</span>
+                    </div>
+                    <div class="answer-points" id="points-1">00</div>
+                </div>
+                <div class="answer-row" data-index="2">
+                    <div class="answer-number">3</div>
+                    <div class="answer-text" id="answer-2">
+                        <span class="hidden-answer">ANSWER 3</span>
+                    </div>
+                    <div class="answer-points" id="points-2">00</div>
+                </div>
+                <div class="answer-row" data-index="3">
+                    <div class="answer-number">4</div>
+                    <div class="answer-text" id="answer-3">
+                        <span class="hidden-answer">ANSWER 4</span>
+                    </div>
+                    <div class="answer-points" id="points-3">00</div>
+                </div>
+                <div class="answer-row" data-index="4">
+                    <div class="answer-number">5</div>
+                    <div class="answer-text" id="answer-4">
+                        <span class="hidden-answer">ANSWER 5</span>
+                    </div>
+                    <div class="answer-points" id="points-4">00</div>
+                </div>
+                <div class="answer-row" data-index="5">
+                    <div class="answer-number">6</div>
+                    <div class="answer-text" id="answer-5">
+                        <span class="hidden-answer">ANSWER 6</span>
+                    </div>
+                    <div class="answer-points" id="points-5">00</div>
+                </div>
+                <div class="answer-row" data-index="6">
+                    <div class="answer-number">7</div>
+                    <div class="answer-text" id="answer-6">
+                        <span class="hidden-answer">ANSWER 7</span>
+                    </div>
+                    <div class="answer-points" id="points-6">00</div>
+                </div>
+                <div class="answer-row" data-index="7">
+                    <div class="answer-number">8</div>
+                    <div class="answer-text" id="answer-7">
+                        <span class="hidden-answer">ANSWER 8</span>
+                    </div>
+                    <div class="answer-points" id="points-7">00</div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <div class="file-controls">
+                    <label for="json-upload" class="upload-btn">📁 Import Questions (JSON)</label>
+                    <input type="file" id="json-upload" accept=".json" style="display: none;">
+                    <span id="file-name"></span>
+                </div>
+                
+                <div class="game-controls">
+                    <button id="prev-question" class="control-btn">⬅️ Previous</button>
+                    <button id="next-question" class="control-btn">➡️ Next</button>
+                    <button id="reset-question" class="control-btn">🔄 Reset Question</button>
+                </div>
+
+                <div class="team-controls">
+                    <button id="award-team1" class="team-btn team1-btn">Award Team 1</button>
+                    <button id="add-strike" class="strike-btn">Add Strike</button>
+                    <button id="clear-strikes" class="strike-btn">Clear Strikes</button>
+                    <button id="award-team2" class="team-btn team2-btn">Award Team 2</button>
+                </div>
+
+                <div class="score-controls">
+                    <button id="reset-scores" class="control-btn danger">Reset All Scores</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
