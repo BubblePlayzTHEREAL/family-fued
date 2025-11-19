@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "question": "Name something you find in a kitchen",
+            "answers": [
+                { "text": "Refrigerator", "points": 38 },
+                { "text": "Stove/Oven", "points": 24 },
+                { "text": "Sink", "points": 15 },
+                { "text": "Microwave", "points": 10 },
+                { "text": "Dishes/Plates", "points": 7 },
+                { "text": "Utensils/Silverware", "points": 4 },
+                { "text": "Cabinets", "points": 2 }
+            ]
+        },
+        {
+            "question": "Name a popular pet",
+            "answers": [
+                { "text": "Dog", "points": 45 },
+                { "text": "Cat", "points": 40 },
+                { "text": "Fish", "points": 8 },
+                { "text": "Bird", "points": 4 },
+                { "text": "Hamster", "points": 2 },
+                { "text": "Rabbit", "points": 1 }
+            ]
+        },
+        {
+            "question": "Name something people do at the beach",
+            "answers": [
+                { "text": "Swim", "points": 35 },
+                { "text": "Sunbathe/Tan", "points": 28 },
+                { "text": "Build Sandcastles", "points": 14 },
+                { "text": "Surf", "points": 9 },
+                { "text": "Play Volleyball", "points": 7 },
+                { "text": "Walk", "points": 4 },
+                { "text": "Read", "points": 3 }
+            ]
+        },
+        {
+            "question": "Name a reason to call in sick to work",
+            "answers": [
+                { "text": "Flu/Cold", "points": 32 },
+                { "text": "Stomach Ache/Food Poisoning", "points": 25 },
+                { "text": "Headache/Migraine", "points": 18 },
+                { "text": "Doctor's Appointment", "points": 12 },
+                { "text": "Family Emergency", "points": 8 },
+                { "text": "Fever", "points": 5 }
+            ]
+        },
+        {
+            "question": "Name something you wear on your feet",
+            "answers": [
+                { "text": "Shoes", "points": 40 },
+                { "text": "Socks", "points": 30 },
+                { "text": "Sandals", "points": 12 },
+                { "text": "Boots", "points": 10 },
+                { "text": "Slippers", "points": 5 },
+                { "text": "Sneakers", "points": 3 }
+            ]
+        },
+        {
+            "question": "Name a fast food restaurant",
+            "answers": [
+                { "text": "McDonald's", "points": 42 },
+                { "text": "Burger King", "points": 18 },
+                { "text": "Wendy's", "points": 14 },
+                { "text": "Taco Bell", "points": 11 },
+                { "text": "KFC", "points": 8 },
+                { "text": "Subway", "points": 7 }
+            ]
+        },
+        {
+            "question": "Name something you buy at a grocery store",
+            "answers": [
+                { "text": "Milk", "points": 28 },
+                { "text": "Bread", "points": 26 },
+                { "text": "Eggs", "points": 19 },
+                { "text": "Meat", "points": 12 },
+                { "text": "Fruits/Vegetables", "points": 10 },
+                { "text": "Cheese", "points": 5 }
+            ]
+        },
+        {
+            "question": "Name a sport played with a ball",
+            "answers": [
+                { "text": "Football", "points": 35 },
+                { "text": "Basketball", "points": 28 },
+                { "text": "Soccer", "points": 20 },
+                { "text": "Baseball", "points": 10 },
+                { "text": "Tennis", "points": 5 },
+                { "text": "Volleyball", "points": 2 }
+            ]
+        }
+    ]
+}
