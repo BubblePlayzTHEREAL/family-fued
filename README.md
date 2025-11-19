@@ -2,6 +2,12 @@
 
 A custom Family Feud game built with HTML, CSS, and JavaScript. Features include a beautiful interface, score tracking, strike system, and the ability to import questions from JSON files.
 
+## 🌐 Live Demo
+
+**Play the game online:** [https://bubbleplayzthereal.github.io/family-fued/](https://bubbleplayzthereal.github.io/family-fued/)
+
+The site is automatically deployed via GitHub Pages whenever changes are pushed to the main branch.
+
 ## Features
 
 - 🎨 **Attractive UI**: Modern design with gradient backgrounds, animations, and responsive layout
