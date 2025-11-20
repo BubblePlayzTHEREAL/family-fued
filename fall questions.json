@@ -1,0 +1,257 @@
+{
+    "questions": [
+        {
+            "question": "NAME A WORD PEOPLE ASSOCIATE WITH FALL",
+            "answers": [
+                { "text": "Cozy", "points": 24 },
+                { "text": "Crisp", "points": 20 },
+                { "text": "Harvest", "points": 17 },
+                { "text": "Spooky", "points": 13 },
+                { "text": "Chill", "points": 9 },
+                { "text": "Pumpkin", "points": 7 },
+                { "text": "Colorful", "points": 6 },
+                { "text": "Windy", "points": 4 }
+            ]
+        },
+        {
+            "question": "NAME A CARTOON CHARACTER",
+            "answers": [
+                { "text": "Mickey Mouse", "points": 28 },
+                { "text": "Bugs Bunny", "points": 25 },
+                { "text": "Spongebob", "points": 29 },
+                { "text": "Homer Simpson", "points": 14 },
+                { "text": "Scooby Doo", "points": 9 },
+                { "text": "Bart Simpson", "points": 5 }
+            ]
+        },
+        {
+            "question": "NAME SOMETHING THAT FALLS",
+            "answers": [
+                { "text": "Rain", "points": 28 },
+                { "text": "Leaves", "points": 22 },
+                { "text": "Temperatures", "points": 16 },
+                { "text": "Snow", "points": 11 },
+                { "text": "Acorns", "points": 9 },
+                { "text": "Apples", "points": 6 },
+                { "text": "Pinecones", "points": 5 },
+                { "text": "People", "points": 3 }
+            ]
+        },
+        {
+            "question": "NAME A FAST FOOD CHAIN",
+            "answers": [
+                { "text": "McDonald's", "points": 30 },
+                { "text": "Burger King", "points": 20 },
+                { "text": "Wendy's", "points": 18 },
+                { "text": "Taco Bell", "points": 12 },
+                { "text": "Chick-fil-A", "points": 10 },
+                { "text": "KFC", "points": 6 },
+                { "text": "Subway", "points": 4 }
+            ]
+        },
+        {
+            "question": "NAME A WAY TO SAY HELLO",
+            "answers": [
+                { "text": "Hello", "points": 28 },
+                { "text": "Hi", "points": 22 },
+                { "text": "Hoy", "points": 19 },
+                { "text": "What's Up", "points": 14 },
+                { "text": "Howdy", "points": 9 },
+                { "text": "Yo", "points": 6 },
+                { "text": "Sup", "points": 4 }
+            ]
+        },
+        {
+            "question": "NAME A SINGER KNOWN BY ONE NAME",
+            "answers": [
+                { "text": "Beyonce", "points": 24 },
+                { "text": "Madonna", "points": 23 },
+                { "text": "Adele", "points": 19 },
+                { "text": "Prince", "points": 14 },
+                { "text": "Cher", "points": 8 },
+                { "text": "Rihanna", "points": 6 },
+                { "text": "Usher", "points": 2 },
+                { "text": "Shakira", "points": 2 }
+            ]
+        },
+        {
+            "question": "NAME AN IMAGE SEEN IN THANKSGIVING ADS",
+            "answers": [
+                { "text": "Turkey", "points": 27 },
+                { "text": "Pumpkin", "points": 20 },
+                { "text": "Leaves", "points": 16 },
+                { "text": "Family", "points": 11 },
+                { "text": "Cornucopia", "points": 9 },
+                { "text": "Pie", "points": 8 },
+                { "text": "Pilgrim Hat", "points": 7 },
+                { "text": "Football", "points": 2 }
+            ]
+        },
+        {
+            "question": "NAME A POPULAR HALLOWEEN COSTUME",
+            "answers": [
+                { "text": "Witch", "points": 34 },
+                { "text": "Ghost", "points": 19 },
+                { "text": "Vampire", "points": 18 },
+                { "text": "Zombie", "points": 10 },
+                { "text": "Skeleton", "points": 8 },
+                { "text": "Cat", "points": 7 },
+                { "text": "Clown", "points": 4 }
+            ]
+        },
+        {
+            "question": "NAME A FALL SCENT",
+            "answers": [
+                { "text": "Pumpkin spice", "points": 36 },
+                { "text": "Apple cinnamon", "points": 28 },
+                { "text": "Bonfire", "points": 15 },
+                { "text": "Nutmeg", "points": 11 },
+                { "text": "Maple", "points": 10 }
+            ]
+        },
+        {
+            "question": "NAME SOMETHING YOU DO WITH LEAVES",
+            "answers": [
+                { "text": "Rake", "points": 33 },
+                { "text": "Jump in", "points": 25 },
+                { "text": "Burn", "points": 17 },
+                { "text": "Compost", "points": 13 },
+                { "text": "Bag", "points": 12 }
+            ]
+        },
+        {
+            "question": "NAME A FALL DECORATION",
+            "answers": [
+                { "text": "Wreath", "points": 28 },
+                { "text": "Pumpkins", "points": 24 },
+                { "text": "Gourds", "points": 18 },
+                { "text": "Corn stalks", "points": 14 },
+                { "text": "Scarecrow", "points": 10 },
+                { "text": "Leaves", "points": 6 }
+            ]
+        },
+        {
+            "question": "NAME A BIRD YOU SEE IN FALL",
+            "answers": [
+                { "text": "Crow", "points": 32 },
+                { "text": "Turkey", "points": 26 },
+                { "text": "Goose", "points": 18 },
+                { "text": "Owl", "points": 13 },
+                { "text": "Hawk", "points": 11 }
+            ]
+        },
+        {
+            "question": "NAME A FALL FAMILY TRADITION",
+            "answers": [
+                { "text": "Pumpkin patch", "points": 28 },
+                { "text": "Apple picking", "points": 24 },
+                { "text": "Family dinner", "points": 20 },
+                { "text": "Watching football", "points": 14 },
+                { "text": "Halloween movie", "points": 9 },
+                { "text": "Bonfire night", "points": 5 }
+            ]
+        },
+        {
+            "question": "NAME SOMETHING PEOPLE POST ON INSTAGRAM IN FALL",
+            "answers": [
+                { "text": "Leaves", "points": 30 },
+                { "text": "Pumpkin patch", "points": 26 },
+                { "text": "Coffee", "points": 19 },
+                { "text": "Sweater outfits", "points": 12 },
+                { "text": "Bonfire", "points": 7 },
+                { "text": "Boots", "points": 6 }
+            ]
+        },
+        {
+            "question": "NAME A WORD THAT RHYMES WITH \"FALL\"",
+            "answers": [
+                { "text": "Ball", "points": 26 },
+                { "text": "Call", "points": 24 },
+                { "text": "Mall", "points": 17 },
+                { "text": "Tall", "points": 12 },
+                { "text": "Small", "points": 7 },
+                { "text": "Wall", "points": 9 },
+                { "text": "Pall", "points": 5 }
+            ]
+        },
+        {
+            "question": "NAME A REASON PEOPLE DON'T LIKE FALL",
+            "answers": [
+                { "text": "Allergies", "points": 18 },
+                { "text": "End of summer", "points": 18 },
+                { "text": "Cold weather", "points": 29 },
+                { "text": "Darker days", "points": 23 },
+                { "text": "Leaves mess", "points": 10 },
+                { "text": "Back to school", "points": 6 }
+            ]
+        },
+        {
+            "question": "NAME A FRUIT USED ON THANKSGIVING",
+            "answers": [
+                { "text": "Cranberries", "points": 30 },
+                { "text": "Apples", "points": 22 },
+                { "text": "Pumpkin", "points": 16 },
+                { "text": "Oranges", "points": 11 },
+                { "text": "Pears", "points": 8 },
+                { "text": "Grapes", "points": 7 },
+                { "text": "Cherries", "points": 7 }
+            ]
+        },
+        {
+            "question": "NAME SOMETHING YOU WEAR IN FALL",
+            "answers": [
+                { "text": "Sweater", "points": 34 },
+                { "text": "Boots", "points": 23 },
+                { "text": "Scarf", "points": 18 },
+                { "text": "Jacket", "points": 12 },
+                { "text": "Flannel", "points": 8 },
+                { "text": "Vest", "points": 5 }
+            ]
+        },
+        {
+            "question": "NAME SOMETHING YOU BAKE IN FALL",
+            "answers": [
+                { "text": "Pie", "points": 31 },
+                { "text": "Cookies", "points": 23 },
+                { "text": "Bread", "points": 19 },
+                { "text": "Muffins", "points": 14 },
+                { "text": "Cobbler", "points": 8 },
+                { "text": "Cake", "points": 3 }
+            ]
+        },
+        {
+            "question": "NAME A FALL FESTIVAL FEATURE",
+            "answers": [
+                { "text": "Hayride", "points": 28 },
+                { "text": "Live music", "points": 23 },
+                { "text": "Food trucks", "points": 20 },
+                { "text": "Pumpkin contest", "points": 13 },
+                { "text": "Games", "points": 10 },
+                { "text": "Craft booths", "points": 6 }
+            ]
+        },
+        {
+            "question": "NAME A PUMPKIN-FLAVORED ITEM",
+            "answers": [
+                { "text": "Latte", "points": 33 },
+                { "text": "Muffin", "points": 25 },
+                { "text": "Donut", "points": 18 },
+                { "text": "Ice cream", "points": 14 },
+                { "text": "Bread", "points": 10 }
+            ]
+        },
+        {
+            "question": "NAME A STORE PEOPLE VISIT ON BLACK FRIDAY",
+            "answers": [
+                { "text": "Walmart", "points": 24 },
+                { "text": "Target", "points": 19 },
+                { "text": "Best Buy", "points": 16 },
+                { "text": "Kohl's", "points": 12 },
+                { "text": "Macy's", "points": 10 },
+                { "text": "Amazon", "points": 9 },
+                { "text": "Old Navy", "points": 6 },
+                { "text": "Home Depot", "points": 4 }
+            ]
+        }
+    ]
+}
